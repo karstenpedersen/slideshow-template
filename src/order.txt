@@ -1,0 +1,6 @@
+./src/slides/frontpage.md
+---
+./src/slides/go.md
+./src/slides/graphs.md
+---
+./src/slides/conclusion.md
